@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Best_Shield
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Best-Shield)](https://github.com/anuraghazra/github-readme-stats)
+![](https://visitor-badge.glitch.me/badge?page_id=Best-Shield.readme)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
